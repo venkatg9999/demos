@@ -1,0 +1,29 @@
+Date: 19/03/2018           WORK REPORT
+
+
+
+1. Downloaded IntelliJ IDEA IDE.
+
+2. Dowloaded Gitbash 
+
+3. Dowloaded Nodejs
+
+4. Created Github Account
+
+5. Created a sample Repository in Github with basic operations involved in it. For insatnce: Commit,Push,Pull,Clone,Merge etc.
+
+6. Added one of my colleague as a Contributor through Github.
+
+7. Had an understanding about the Workflow of Github process by the end of the day.
+
+
+
+So these are the major tasks I have done today(19/03/2018).
+
+
+Kind Regards,
+Venkat.
+
+
+
+
